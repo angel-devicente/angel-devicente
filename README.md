@@ -1,7 +1,6 @@
-Ángel de Vicente
- Research Software Engineer (Supercomputing and BigData)
- Web.: <https://angel-devicente.github.io/>
- Tel.: +34 922-605-747
+-   Ángel de Vicente
+    -   Research Software Engineer (Supercomputing and BigData)
+    -   Web.: <https://angel-devicente.github.io/>
 
 
 # Private projects
